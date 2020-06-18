@@ -1,0 +1,39 @@
+<Layouts>
+ <Layout short_cut="ALT+2" on_tool_bar="0" name="scnd">
+  <Position column_span="450" row_span="450" column="200" number="0" row="0"/>
+  <Position column_span="600" row_span="350" column="650" number="1" row="0"/>
+  <Position column_span="250" row_span="200" column="1000" number="2" row="0"/>
+ </Layout>
+ <Layout short_cut="ALT+3" on_tool_bar="0" name="thrd">
+  <Position column_span="450" row_span="600" column="200" number="0" row="50"/>
+  <Position column_span="550" row_span="300" column="800" number="1" row="0"/>
+  <Position column_span="300" row_span="100" column="1100" number="2" row="0"/>
+  <Position column_span="200" row_span="100" column="1100" number="3" row="300"/>
+ </Layout>
+ <Layout short_cut="ALT+9" on_tool_bar="0" name="3x3">
+  <Position column_span="200" row_span="400" column="0" number="0" row="0"/>
+  <Position column_span="200" row_span="400" column="400" number="1" row="0"/>
+  <Position column_span="200" row_span="400" column="800" number="2" row="0"/>
+  <Position column_span="200" row_span="400" column="0" number="3" row="200"/>
+  <Position column_span="200" row_span="400" column="0" number="4" row="400"/>
+  <Position column_span="200" row_span="400" column="400" number="5" row="200"/>
+  <Position column_span="200" row_span="400" column="400" number="6" row="400"/>
+  <Position column_span="200" row_span="400" column="800" number="7" row="200"/>
+  <Position column_span="200" row_span="400" column="800" number="8" row="400"/>
+ </Layout>
+ <Layout short_cut="Press A Button with Press Alt" on_tool_bar="0" name="RRR">
+  <Position column_span="300" row_span="350" column="350" number="0" row="100"/>
+ </Layout>
+ <Layout short_cut="Press A Button with Press Alt" on_tool_bar="0" name="sdsd">
+  <Position column_span="300" row_span="450" column="300" number="0" row="100"/>
+ </Layout>
+ <Layout short_cut="ALT+1" on_tool_bar="1" name="samplelayout">
+  <Position column_span="250" row_span="450" column="0" number="0" row="0"/>
+  <Position column_span="200" row_span="400" column="800" number="1" row="400"/>
+ </Layout>
+ <Layout short_cut="ALT + 4" on_tool_bar="1" name="new">
+  <Position column_span="250" row_span="400" column="300" number="0" row="200"/>
+  <Position column_span="300" row_span="250" column="800" number="1" row="50"/>
+  <Position column_span="150" row_span="350" column="100" number="2" row="0"/>
+ </Layout>
+</Layouts>
